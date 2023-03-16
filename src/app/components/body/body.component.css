@@ -1,0 +1,19 @@
+.caroulsel {
+  width: 100%;
+  overflow: hidden;
+  padding: 5px 0 5px 5px;
+}
+
+.caroulsel-wrap {
+  white-space: nowrap;
+  font-size: 0;
+}
+
+.caroulsel-wrap a {
+
+
+
+  background-color: silver;
+  border: #ccc 1px solid;
+  margin-right: 5px;
+}
